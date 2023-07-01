@@ -65,4 +65,4 @@ jobs:
       - name: deploy  
         run: npm run deploy
       - name: notify
-        run: echo 'Done! 🎉'
+        run: echo 'Deployment completed in prod! 🎉'
